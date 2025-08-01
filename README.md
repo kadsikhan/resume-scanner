@@ -1,7 +1,7 @@
 # 📄 AI Resume Scanner with Streamlit
 
-![App Screenshot](<img width="1843" height="873" alt="Screenshot 2025-08-01 024950" src="https://github.com/user-attachments/assets/d383bf85-81c2-43a3-99fc-dd9cdd715f5e" />
-)  
+![App Screenshot](https://1drv.ms/i/c/45ce80<img width="1772" height="856" alt="job " src="https://github.com/user-attachments/assets/8d7c46de-27f9-4e76-8192-37daea5a32ab" />
+28baca3b77/EVsKI-7v5JJFis3mlLDpzD0BIZIzeY1yKL4SaI4q_d5pdg?e=uZCsYw) 
 *Replace with actual screenshot later*
 
 An intelligent web app that **analyzes resumes** and **matches them with job listings** using Python and Streamlit.
@@ -54,8 +54,10 @@ Hosted for free on:
 ## 📸 Screenshots
 | Feature | Preview |
 |---------|---------|
-| Resume Upload | ![Upload](https://via.placeholder.com/300) |
-| Job Matching | ![Matching](https://via.placeholder.com/300) |
+| Resume Upload | ![Upload](htt[job_matches (1).csv](https://github.com/user-attachments/files/21546001/job_matches.1.csv)
+
+| Job Matching | ![Matching](http[job_matches.csv](https://github.com/user-attachments/files/21546004/job_matches.csv)
+s://via.placeholder.com/300) |
 
 ## 🤝 Contributing
 Pull requests welcome! For major changes, please open an issue first.
