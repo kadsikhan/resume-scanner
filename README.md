@@ -51,13 +51,6 @@ Hosted for free on:
 3. Matches with jobs database
 4. Displays best matches with compatibility scores
 
-## 📸 Screenshots
-| Feature | Preview |
-|---------|---------|
-| Resume Upload | [resume.pdf](https://github.com/user-attachments/files/21546045/resume.pdf)
-
-
-| Job Matching |[job_matches.csv](https://github.com/user-attachments/files/21546050/job_matches.csv)
 
 
 ## 🤝 Contributing
