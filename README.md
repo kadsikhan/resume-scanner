@@ -1,6 +1,6 @@
 # 📄 AI Resume Scanner with Streamlit
 
-(https://1drv.ms/i/c/45ce80<img width="1772" height="856" alt="job " src="https://github.com/user-attachments/assets/8d7c46de-27f9-4e76-8192-37daea5a32ab" />
+<img width="1772" height="856" alt="job " src="https://github.com/user-attachments/assets/8d7c46de-27f9-4e76-8192-37daea5a32ab" />
 28baca3b77/EVsKI-7v5JJFis3mlLDpzD0BIZIzeY1yKL4SaI4q_d5pdg?e=uZCsYw) 
 *Replace with actual screenshot later*
 
